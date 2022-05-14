@@ -27,3 +27,5 @@ What You'll need
 Aternos might detect your behavior and they might delete your account!
 
 You are responsible for your own actions. I do not recommend doing this on your main aternos server!
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=repo link/)
